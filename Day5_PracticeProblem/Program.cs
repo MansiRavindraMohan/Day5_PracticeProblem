@@ -15,6 +15,9 @@ namespace Day5_PracticeProblem
 
             MinimumFloat minimumFloat = new MinimumFloat();
             minimumFloat.FloatMethod();
+
+            MinimumString minimumString = new MinimumString();
+            minimumString.StringMethod();
             Console.ReadLine();
         }
     }
