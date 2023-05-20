@@ -12,6 +12,9 @@ namespace Day5_PracticeProblem
         {
             MinimumInteger minimumInteger = new MinimumInteger();
             minimumInteger.IntegerMethod();
+
+            MinimumFloat minimumFloat = new MinimumFloat();
+            minimumFloat.FloatMethod();
             Console.ReadLine();
         }
     }
